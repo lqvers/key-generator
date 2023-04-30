@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "orio.db": "^3.1.2"
+  }
+}

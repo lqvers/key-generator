@@ -1,0 +1,7 @@
+{
+    "adapter": "json",
+    "name": "keys",
+    "path": "database", 
+    "deleteEmptyArray": true, 
+    "deleteEmptyObject": true
+  }
